@@ -46,5 +46,5 @@ I value quantitative results: every number in my projects come from a real run, 
 
 ## Contact
 
-- Email: [your email here]
-- LinkedIn: [your LinkedIn URL here]
+- Email: matthew.goley@outlook.com | admin@protonyxdata.com
+- LinkedIn: https://www.linkedin.com/in/matthew-goley-39170640a/
